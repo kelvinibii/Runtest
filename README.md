@@ -1,2 +1,6 @@
 # Runtest
-runtest purpose of the enum game
+hasil program web dari game enumeration kelompok
+Ariel
+Levina
+Jemmy
+Kelvin
